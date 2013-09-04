@@ -1,0 +1,16 @@
+<package>
+  <description brief="vscore_roscontroller">
+
+     A ROS controller for vs_core
+
+  </description>
+  <author>Pierre Gergondet</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/vscore_roscontroller</url>
+  <depend package="image_transport"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
